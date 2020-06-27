@@ -1,0 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap);
+body,html{display:flex;flex-direction:column;flex:1;align-items:center;width:100vw;height:100vh;overflow:hidden;background-color:#AFBBBE;margin:0px;padding:0px}main{display:flex;width:100%;flex:1;flex-direction:column}main section{display:flex;flex-direction:column;align-items:center;flex:1;margin:10px}main section .info{display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:23px;font-weight:600;font-family:Quicksand}main section .info #best,main section .info #score,main section .info #time{margin-left:20px;margin-right:20px}main section #canvas{width:100%;height:100%;background-color:white}footer{position:absolute;left:0px;right:0px;bottom:0px;z-index:999;display:flex;min-height:50px;height:auto;justify-content:center;align-items:center}
+
+
+/*# sourceMappingURL=index.76633097f712073a0dd6.css.map*/
